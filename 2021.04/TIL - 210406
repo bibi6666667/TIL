@@ -1,0 +1,84 @@
+**[210406]**
+
+
+
+- 오늘 한 일
+  - 스크럼 및 수업
+  - 팀원분들 만나서 인사!
+  - 스프링 부트 애플리케이션 초기 설정
+- 배운 점
+  - 스프링 데이터 JDBC, MySQL workbench 수업을 들었는데 거의 이해를 못 했다..
+- 개선할 점
+  - 수업 집중해서 듣기
+  - 내일은 좀 더 계획적으로 하루 보내기
+
+
+
+## 오늘의 수업 - MySQL workbench, 스프링 데이터 JDBC
+
+Aggregate
+
+- 값이 변화할 때 일관성을 유지해야 하는 데이터의 집합
+- aggregate의 값 변화는 원자적이지만 Strong consistency를 보장해 주지 않는다.
+  - eventual consistency 보장
+- 최근 업데이트로 **Strong consistency**를 보장한다?
+
+The Aggregate Root
+
+- 각 aggregate에는 정확하게 하나의 aggregate root가 존재함
+- aggregate root의 메소드를 통해서만 aggregate의 값을 조작할 수 있음
+
+Repository
+
+- persistent한 객체의 저장소
+- 하나의 aggregate root 당 하나의 repository를 가질 수 있다.
+
+
+
+## Todo Queue
+
+[김영한님 API부분 복습](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/lecture/49578)
+
+스프링 데이터 JDBC, SQL문 사용법
+
+AWS 서버 설정 (EC2), MySQL 설치
+
+AWS 강의 마저 듣기
+
+---
+
+- 미션5피드백 달린 것 자세히 보고 정리하기
+
+  https://github.com/codesquad-members-2021/spring-boot-qna/pull/133
+
+- 미션6페이징 이어서 하기
+
+  - 이노가 알려준 참고링크들.
+
+    >https://gonyda.tistory.com/15
+    >
+    >https://gonyda.tistory.com/16
+    >
+    >https://lkhlkh23.tistory.com/84 - Page 메서드들
+    >
+    >https://github.surf/eNoLJ/spring-boot-qna/blob/mission6/src/main/java/com/codessquad/qna/controller/QuestionController.java 이노의 미션6 깃서프
+
+- 블로그 포스팅 정리
+
+- Optional
+
+  - https://mangkyu.tistory.com/70 
+
+- [실습으로 배우는 AWS 핵심 서비스](https://www.inflearn.com/course/aws-%ED%95%B5%EC%8B%AC-%EC%8B%A4%EC%8A%B5/dashboard) 듣기!!
+
+- Logger, LoggerFactory 공부해서 사용하기(루카스 '로깅 라이브러리'참고)
+
+- 스프링MVC구조 및 Model, Domain에 대해 아래 링크 참고해서 더 공부하기.
+
+  - [What is the difference between an MVC Model object, a domain object and a DTO](https://stackoverflow.com/questions/3853749/what-is-the-difference-between-an-mvc-model-object-a-domain-object-and-a-dto)
+  - [Spring MVC 구조에 대한 좋은 그림과 설명](https://justforchangesake.wordpress.com/2014/05/07/spring-mvc-request-life-cycle/)
+
+- [트랜잭션](http://egloos.zum.com/sweeper/v/3003805)
+
+- [스프링 웹 계층](https://www.petrikainulainen.net/software-development/design/understanding-spring-web-application-architecture-the-classic-way/)
+
