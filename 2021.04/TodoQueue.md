@@ -1,8 +1,12 @@
+## ing..
+
+- AWS  심화 강의 듣기
+
 
 
 ## Todo Queue
 
-- AWS 강의 마저 듣기(심화)
+- @RequestBody 와 스프링 API방식 JSON데이터전달 공부하기
 - AWS 서버 설정 (EC2), MySQL 설치
 - MySQL TABLE 만들기
 - 스프링 데이터 JDBC, SQL문 사용법
