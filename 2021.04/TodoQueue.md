@@ -1,10 +1,42 @@
-## ing..
+# ing..
 
 - AWS  심화 강의 듣기
 
 
 
-## Todo Queue
+### EC2에 elastic-ip 연결하기 
+
+### elastic-ip 연결 해제
+
+## EC2 실습 2
+
+### EBS 스냅샷 생성
+
+### AMI 생성 및 인스턴스 생성
+
+### ec3-meta-data
+
+### EC2 Role 사용해 보기
+
+### EC2 팁 및 마무리
+
+## VPC 
+
+### VPC 소개
+
+### VPC 주요 개념
+
+...
+
+## RDS
+
+### RDS 소개 및 특징
+
+### RDS의 장단점
+
+
+
+# Todo Queue
 
 - @RequestBody 와 스프링 API방식 JSON데이터전달 공부하기
 - AWS 서버 설정 (EC2), MySQL 설치
