@@ -1,6 +1,6 @@
 # ing..
 
-- 
+- 팀 프로젝트 1 진행 중 (DB연결)
 
 
 
@@ -8,9 +8,7 @@
 
 - OOP 특징(Encapsulation, Inheritance, Abstraction, Polymorphism),
   Solid원칙(Single Responsibility Principle, Open / Closed Principle, Liskov's Substitution Principle, Interface Segregation Principle, Dipendency Inversion Principle) 내 말로 요약 정리해 오기
-- AWS 서버 설정 (EC2), MySQL 설치
 - @RequestBody 와 스프링 API방식 JSON데이터전달 공부하기
-- MySQL TABLE 만들기
 - 스프링 데이터 JDBC, SQL문 사용법
 
 ---
