@@ -4,48 +4,7 @@
 
 # Todo Queue
 
-## 미션에서 배운 점 정리하기
 
-```java
-// UPDATE
-@PutMapping("/cards/{id}")
-public ResponseEntity editCards(@PathVariable Long id, @RequestBody CardDto newCardDto) {
-    cardService.edit(id, newCardDto);
-    return new ResponseEntity<>("SUCCESS", HttpStatus.OK);
-}
-```
-
-- `ResponseEntity`
-  - `HttpEntity` : HTTP 요청 또는 응답에 해당하는 HTTP Header와 HTTP Body를 포함하는 Spring FrameWork의 클래스이다.
-  - `HttpEntity`를 상속받아 구현한 클래스가 `RequestEntity`,` ResponseEntity`이다.
-  - `ResponseEntity` : 사용자의 HttpRequest에 대한 응답 데이터를 포함하는 클래스. 
-    - HttpStatus, HttpHeaders, HttpBody를 포함한다.
-
-- `@RequestBody`
-
-- `@RestController`
-  - 그냥 `@Controller`와의 차이?
-
-```java
-public interface CardRepository extends CrudRepository<Card, Long> {
-    @Query("select * from card c where not c.status = 'DELETED'")
-    List<Card> findByStatusIsNotDeleted();
-}
-```
-
-- `@Query()`
-
-```java
-@Transactional
-public void create(CardDto cardDto) {
-    Card card = new Card(cardDto);
-    cardRepository.save(card);
-}
-```
-
-- `@Transactional`
-
----
 
 - OOP 특징(Encapsulation, Inheritance, Abstraction, Polymorphism),
   Solid원칙(Single Responsibility Principle, Open / Closed Principle, Liskov's Substitution Principle, Interface Segregation Principle, Dipendency Inversion Principle) 내 말로 요약 정리해 오기
