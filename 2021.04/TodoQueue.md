@@ -5,15 +5,12 @@
 # Todo Queue
 
 - DB에서 인덱스란? 비트리 검색 해보기. 색인 = 인덱스 (레코드를 효율적으로 읽기 위한)
-
-- `@Embeded` 사용법 검색해 보기.. 좋으니까 많이 써라!
+- [생활코딩 OAuth2 강의](https://opentutorials.org/course/3405) 듣기
 
 ---
 
 - OOP 특징(Encapsulation, Inheritance, Abstraction, Polymorphism),
   Solid원칙(Single Responsibility Principle, Open / Closed Principle, Liskov's Substitution Principle, Interface Segregation Principle, Dipendency Inversion Principle) 내 말로 요약 정리해 오기
-- @RequestBody 와 스프링 API방식 JSON데이터전달 공부하기
-- @ResponseEntity
 - 스프링 데이터 JDBC, SQL문 사용법
 
 ---
@@ -39,8 +36,6 @@
 - Optional
 
   - https://mangkyu.tistory.com/70 
-
-- [실습으로 배우는 AWS 핵심 서비스](https://www.inflearn.com/course/aws-%ED%95%B5%EC%8B%AC-%EC%8B%A4%EC%8A%B5/dashboard) 듣기!!
 
 - Logger, LoggerFactory 공부해서 사용하기(루카스 '로깅 라이브러리'참고)
 
