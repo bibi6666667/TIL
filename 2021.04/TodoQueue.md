@@ -4,6 +4,7 @@
 
 # Todo Queue
 
+- 스프링 데이터 JDBC, SQL문 사용법
 - DB에서 인덱스란? 비트리 검색 해보기. 색인 = 인덱스 (레코드를 효율적으로 읽기 위한)
 - [생활코딩 OAuth2 강의](https://opentutorials.org/course/3405) 듣기
 
@@ -11,7 +12,6 @@
 
 - OOP 특징(Encapsulation, Inheritance, Abstraction, Polymorphism),
   Solid원칙(Single Responsibility Principle, Open / Closed Principle, Liskov's Substitution Principle, Interface Segregation Principle, Dipendency Inversion Principle) 내 말로 요약 정리해 오기
-- 스프링 데이터 JDBC, SQL문 사용법
 
 ---
 
