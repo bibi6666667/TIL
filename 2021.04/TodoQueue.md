@@ -6,6 +6,7 @@
 
 - 오늘 배운 Spring Data JDBC에서 1:N Map으로 표현하기를 해 보다 잘 모르겠어서 구글링을 하니, https://skyblue300a.tistory.com/8 라는 좋은 글을 찾았다.
 - DB에서 인덱스란? 비트리 검색 해보기. 색인 = 인덱스 (레코드를 효율적으로 읽기 위한)
+- `@Embeded`의 사용 및 DB 관계 설정..
 - [생활코딩 OAuth2 강의](https://opentutorials.org/course/3405) 듣기
 
 ---
