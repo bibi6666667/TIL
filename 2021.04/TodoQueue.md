@@ -8,6 +8,7 @@
 - DB에서 인덱스란? 비트리 검색 해보기. 색인 = 인덱스 (레코드를 효율적으로 읽기 위한)
 - `@Embeded`의 사용 및 DB 관계 설정..
 - [생활코딩 OAuth2 강의](https://opentutorials.org/course/3405) 듣기
+- [Nginx와 SpringBoot내장Tomcat 연동 (80포트를 8080포트로 리다이렉트하는법)](https://velog.io/@damiano1027/Nginx-Nginx%EC%99%80-SpringBoot-%EB%82%B4%EC%9E%A5-Tomcat-%EC%97%B0%EB%8F%99)
 
 ---
 
