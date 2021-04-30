@@ -1,19 +1,18 @@
 # ing..
 
-프로젝트2 진행 중
+
 
 # Todo Queue
 
 - 오늘 배운 Spring Data JDBC에서 1:N Map으로 표현하기를 해 보다 잘 모르겠어서 구글링을 하니, https://skyblue300a.tistory.com/8 라는 좋은 글을 찾았다.
 - DB에서 인덱스란? 비트리 검색 해보기. 색인 = 인덱스 (레코드를 효율적으로 읽기 위한)
-- `@Embeded`의 사용 및 DB 관계 설정..
 - [생활코딩 OAuth2 강의](https://opentutorials.org/course/3405) 듣기
 - [Nginx와 SpringBoot내장Tomcat 연동 (80포트를 8080포트로 리다이렉트하는법)](https://velog.io/@damiano1027/Nginx-Nginx%EC%99%80-SpringBoot-%EB%82%B4%EC%9E%A5-Tomcat-%EC%97%B0%EB%8F%99)
 
 ---
 
 - OOP 특징(Encapsulation, Inheritance, Abstraction, Polymorphism),
-  Solid원칙(Single Responsibility Principle, Open / Closed Principle, Liskov's Substitution Principle, Interface Segregation Principle, Dipendency Inversion Principle) 내 말로 요약 정리해 오기
+  Solid원칙(Single Responsibility Principle, Open / Closed Principle, Liskov's Substitution Principle, Interface Segregation Principle, Dipendency Inversion Principle) 내 말로 요약 정리하기
 
 ---
 
