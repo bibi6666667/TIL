@@ -1,7 +1,7 @@
 # ing..
 
 - 프로젝트3(야구게임)
-- [Spring Data JDBC - many to many (N:M) 예시](https://www.javaer101.com/en/article/6016704.html)
+- [Spring Data JDBC - many to many (N:M) 예시](https://javabydeveloper.com/spring-data-jdbc-many-to-many-example/)
 - [생활코딩 OAuth2 강의](https://opentutorials.org/course/3405) 듣기
 
 
