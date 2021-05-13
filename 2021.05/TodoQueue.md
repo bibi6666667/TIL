@@ -1,17 +1,20 @@
 # ing..
 
 - 프로젝트3(야구게임)
-- [Spring Data JDBC - many to many (N:M) 예시](https://javabydeveloper.com/spring-data-jdbc-many-to-many-example/)
-- [생활코딩 OAuth2 강의](https://opentutorials.org/course/3405) 듣기
-
-
 
 # Todo Queue
 
-- DB에서 인덱스란? 비트리 검색 해보기. 색인 = 인덱스 (레코드를 효율적으로 읽기 위한)
+- [생활코딩 OAuth2 강의](https://opentutorials.org/course/3405) 듣기
+- 그런 RestAPI로 괜찮은가 듣기
+- VPC 실습 듣기
+
+
+
 - AWS VPC - EC2서브넷과 DB서브넷 구분 생성
 - AWS S3 에서 jar 감지해 자동배포
 - [Nginx와 SpringBoot내장Tomcat 연동 (80포트를 8080포트로 리다이렉트하는법)](https://velog.io/@damiano1027/Nginx-Nginx%EC%99%80-SpringBoot-%EB%82%B4%EC%9E%A5-Tomcat-%EC%97%B0%EB%8F%99)
+
+
 
 ---
 
