@@ -6,7 +6,7 @@
 
 - [생활코딩 OAuth2 강의](https://opentutorials.org/course/3405) 듣기
 - 그런 RestAPI로 괜찮은가 듣기
-- VPC 실습 듣기
+- VPC 실습 듣기(루카스 자료)
 
 
 
