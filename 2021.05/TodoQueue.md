@@ -1,6 +1,8 @@
 # ing..
 
-- 프로젝트3(야구게임)
+
+
+
 
 # Todo Queue
 
@@ -13,6 +15,7 @@
 - AWS VPC - EC2서브넷과 DB서브넷 구분 생성
 - AWS S3 에서 jar 감지해 자동배포
 - [Nginx와 SpringBoot내장Tomcat 연동 (80포트를 8080포트로 리다이렉트하는법)](https://velog.io/@damiano1027/Nginx-Nginx%EC%99%80-SpringBoot-%EB%82%B4%EC%9E%A5-Tomcat-%EC%97%B0%EB%8F%99)
+  - 스타브의 비밀노트 참고하기(in 슬랙)
 
 
 
