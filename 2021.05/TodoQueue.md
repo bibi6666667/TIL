@@ -2,14 +2,15 @@
 
 프로젝트 4 - 에어비앤비
 
-- 기획서 읽고 분석해 오기
 - 매일 회고 쓰기
+- 
 
 
 
 # Todo Queue
 
-- [생활코딩 OAuth2 강의](https://opentutorials.org/course/3405) 듣기
+- [yeon이 공유해 주신 DB서버와 웹서버 분리하는 법](https://velog.io/@yeon/public-subnet%EA%B3%BC-private-subnet%EC%97%90-%EC%9B%B9%EC%84%9C%EB%B2%84%EC%99%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EB%B6%84%EB%A6%AC%ED%95%B4%EC%84%9C-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
+
 - 그런 RestAPI로 괜찮은가 듣기
 - VPC 실습 듣기(루카스 자료)
 
