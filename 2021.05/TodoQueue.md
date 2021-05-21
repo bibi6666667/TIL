@@ -9,6 +9,16 @@
 
 # Todo Queue
 
+- Spring JdbcTemplate에 대한 공식문서 가이드 
+
+  - > https://docs.spring.io/spring-framework/docs/current/reference/html/data-access.html#jdbc
+
+  - (K가 알려주셨다🙇‍♀️)
+
+  - 3.1 Choosing an Approach for JDBC Database Access에서 간단한 설명을 읽고
+
+  - 3.3.1. UsingJdbcTemplate 부분부터 보면 될 듯!
+
 - VPC 실습 듣기(루카스 자료)
 
 
