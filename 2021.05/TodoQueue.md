@@ -3,7 +3,7 @@
 프로젝트 4 - 에어비앤비
 
 - 매일 회고 쓰기
-- 
+- 필터링 API 만드는 중
 
 
 
@@ -18,6 +18,7 @@
 - [Nginx와 SpringBoot내장Tomcat 연동 (80포트를 8080포트로 리다이렉트하는법)](https://velog.io/@damiano1027/Nginx-Nginx%EC%99%80-SpringBoot-%EB%82%B4%EC%9E%A5-Tomcat-%EC%97%B0%EB%8F%99)
   - 스타브의 비밀노트 참고하기(in 슬랙)
 - [Github OAuth 연결 with POSTMAN by 동](https://velog.io/@d-h-k/Oauth-%EC%B0%8D%EB%A8%B9%ED%95%B4%EB%B3%B4%EA%B8%B0-with-POSTMAN%EC%8B%A4%EC%8A%B5)!
+- [JWT 토큰 기반 인증](https://velopert.com/2350), [JWT 소개(NHN블로그)](https://meetup.toast.com/posts/239)
 
 
 
