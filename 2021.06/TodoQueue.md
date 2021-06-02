@@ -5,8 +5,9 @@
 - 매일 회고 쓰기
 - 예약 API 만드는 중
 - [Github OAuth 연결 with POSTMAN by 동](https://velog.io/@d-h-k/Oauth-%EC%B0%8D%EB%A8%B9%ED%95%B4%EB%B3%B4%EA%B8%B0-with-POSTMAN%EC%8B%A4%EC%8A%B5) 따라하는 중
-- 숙소 필터링 디버깅...
-- 연이 보내주신 OAuth 링크들 공부하기
+- 로그인 상태에서 예약, 위시리스트 하도록 구현 - JWT 적용
+  - [JWT, 토큰 베이스 로그인](https://www.youtube.com/watch?v=zC5dLbZMAW0)
+  - [스프링부트 - JWT 방식으로 로그인 구현하기](https://ocblog.tistory.com/56)
 
 
 
@@ -17,13 +18,18 @@
 
 - AWS VPC - EC2서브넷과 DB서브넷 구분 생성
   - [yeon이 공유해 주신 DB서버와 웹서버 분리하는 법](https://velog.io/@yeon/public-subnet%EA%B3%BC-private-subnet%EC%97%90-%EC%9B%B9%EC%84%9C%EB%B2%84%EC%99%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EB%B6%84%EB%A6%AC%ED%95%B4%EC%84%9C-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
-- AWS S3 에서 jar 감지해 자동배포
-- [Nginx와 SpringBoot내장Tomcat 연동 (80포트를 8080포트로 리다이렉트하는법)](https://velog.io/@damiano1027/Nginx-Nginx%EC%99%80-SpringBoot-%EB%82%B4%EC%9E%A5-Tomcat-%EC%97%B0%EB%8F%99)
-  - 스타브의 비밀노트 참고하기(in 슬랙)
-- [Github OAuth 연결 with POSTMAN by 동](https://velog.io/@d-h-k/Oauth-%EC%B0%8D%EB%A8%B9%ED%95%B4%EB%B3%B4%EA%B8%B0-with-POSTMAN%EC%8B%A4%EC%8A%B5)!
 - [JWT 토큰 기반 인증](https://velopert.com/2350), [JWT 소개(NHN블로그)](https://meetup.toast.com/posts/239)
 
+- 연이 알려주신 OAuth 연결법과 코드 복습하기!!
 
+  - 코드 - UserRepository, UserService, UserControlle, AppConfig, GoogleUser, OAuthToken
+  - [구글 공식문서 - OAuth2.0으로 구글API 액세스하기](https://developers.google.com/identity/protocols/oauth2)
+    - 특히  "서버측 윕 앱용 OAuth 2.0" 참고
+  - [스프링 - HTTP POST 요청하기](https://withseungryu.tistory.com/116)
+  - [스프링 - RestTemplate활용](https://preamtree.tistory.com/167)
+    - RestTemplate - HTTP get, post 요청을 날릴 떄 필요하다.
+    - ObjectMapper - JSON으로 반환되는 리턴값을 객체로 만들어 주기 위해 사용
+  - (참고) [카카오 OAuth구현 영상](https://www.youtube.com/watch?v=YtFYSva6MbI&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm&index=65)
 
 ---
 
