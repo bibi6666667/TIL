@@ -5,14 +5,16 @@
 - 매일 회고 쓰기
 - 예약 API 만드는 중
 - [Github OAuth 연결 with POSTMAN by 동](https://velog.io/@d-h-k/Oauth-%EC%B0%8D%EB%A8%B9%ED%95%B4%EB%B3%B4%EA%B8%B0-with-POSTMAN%EC%8B%A4%EC%8A%B5) 따라하는 중
-- 로그인 상태에서 예약, 위시리스트 하도록 구현 - JWT 적용
-  - [JWT, 토큰 베이스 로그인](https://www.youtube.com/watch?v=zC5dLbZMAW0)
-  - [스프링부트 - JWT 방식으로 로그인 구현하기](https://ocblog.tistory.com/56)
+
+  
 
 
 
 # Todo Queue
 
+- JWT
+  - [스프링부트 - JWT 방식으로 로그인 구현하기](https://ocblog.tistory.com/56)
+  - 에어비앤비 프로젝트 코드(`BE/feature/login`) 보면서 찾아서 공부하기
 - VPC 실습 듣기(루카스 자료)
 
 
