@@ -1,26 +1,10 @@
 # ing..
 
-프로젝트 4 - 에어비앤비
-
-- 매일 회고 쓰기
-- 예약 API 만드는 중
-- [Github OAuth 연결 with POSTMAN by 동](https://velog.io/@d-h-k/Oauth-%EC%B0%8D%EB%A8%B9%ED%95%B4%EB%B3%B4%EA%B8%B0-with-POSTMAN%EC%8B%A4%EC%8A%B5) 따라하는 중
-
-  
+- 
 
 
 
 # Todo Queue
-
-- JWT
-  - [스프링부트 - JWT 방식으로 로그인 구현하기](https://ocblog.tistory.com/56)
-  - 에어비앤비 프로젝트 코드(`BE/feature/login`) 보면서 찾아서 공부하기
-- VPC 실습 듣기(루카스 자료)
-
-
-- AWS VPC - EC2서브넷과 DB서브넷 구분 생성
-  - [yeon이 공유해 주신 DB서버와 웹서버 분리하는 법](https://velog.io/@yeon/public-subnet%EA%B3%BC-private-subnet%EC%97%90-%EC%9B%B9%EC%84%9C%EB%B2%84%EC%99%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EB%B6%84%EB%A6%AC%ED%95%B4%EC%84%9C-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
-- [JWT 토큰 기반 인증](https://velopert.com/2350), [JWT 소개(NHN블로그)](https://meetup.toast.com/posts/239)
 
 - 연이 알려주신 OAuth 연결법과 코드 복습하기!!
 
@@ -32,6 +16,16 @@
     - RestTemplate - HTTP get, post 요청을 날릴 떄 필요하다.
     - ObjectMapper - JSON으로 반환되는 리턴값을 객체로 만들어 주기 위해 사용
   - (참고) [카카오 OAuth구현 영상](https://www.youtube.com/watch?v=YtFYSva6MbI&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm&index=65)
+- JWT
+  - [스프링부트 - JWT 방식으로 로그인 구현하기](https://ocblog.tistory.com/56)
+  - 에어비앤비 프로젝트 코드(`BE/feature/login`) 보면서 찾아서 공부하기
+- VPC 실습 듣기(루카스 자료)
+
+
+- AWS VPC - EC2서브넷과 DB서브넷 구분 생성
+  - [yeon이 공유해 주신 DB서버와 웹서버 분리하는 법](https://velog.io/@yeon/public-subnet%EA%B3%BC-private-subnet%EC%97%90-%EC%9B%B9%EC%84%9C%EB%B2%84%EC%99%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EB%B6%84%EB%A6%AC%ED%95%B4%EC%84%9C-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
+- [JWT 토큰 기반 인증](https://velopert.com/2350), [JWT 소개(NHN블로그)](https://meetup.toast.com/posts/239)
+
 
 ---
 
