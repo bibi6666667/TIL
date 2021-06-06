@@ -16,9 +16,6 @@
     - RestTemplate - HTTP get, post 요청을 날릴 떄 필요하다.
     - ObjectMapper - JSON으로 반환되는 리턴값을 객체로 만들어 주기 위해 사용
   - (참고) [카카오 OAuth구현 영상](https://www.youtube.com/watch?v=YtFYSva6MbI&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm&index=65)
-- JWT
-  - [스프링부트 - JWT 방식으로 로그인 구현하기](https://ocblog.tistory.com/56)
-  - 에어비앤비 프로젝트 코드(`BE/feature/login`) 보면서 찾아서 공부하기
 - VPC 실습 듣기(루카스 자료)
 
 
