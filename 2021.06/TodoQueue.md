@@ -1,21 +1,16 @@
 # ing..
 
-- 
+- issue-tracker 프로젝트 진행 중
+  - Github OAuth
+  - [깃헙 공식문서?](https://docs.github.com/en/developers/apps/building-oauth-apps/scopes-for-oauth-apps)
 
 
 
 # Todo Queue
 
-- 연이 알려주신 OAuth 연결법과 코드 복습하기!!
-
-  - 코드 - UserRepository, UserService, UserControlle, AppConfig, GoogleUser, OAuthToken
-  - [구글 공식문서 - OAuth2.0으로 구글API 액세스하기](https://developers.google.com/identity/protocols/oauth2)
-    - 특히  "서버측 윕 앱용 OAuth 2.0" 참고
-  - [스프링 - HTTP POST 요청하기](https://withseungryu.tistory.com/116)
-  - [스프링 - RestTemplate활용](https://preamtree.tistory.com/167)
-    - RestTemplate - HTTP get, post 요청을 날릴 떄 필요하다.
-    - ObjectMapper - JSON으로 반환되는 리턴값을 객체로 만들어 주기 위해 사용
-  - (참고) [카카오 OAuth구현 영상](https://www.youtube.com/watch?v=YtFYSva6MbI&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm&index=65)
+- 동의 GIthub OAuth 구현하기
+  - [Velog](https://velog.io/@d-h-k/Oauth-%EC%B0%8D%EB%A8%B9%ED%95%B4%EB%B3%B4%EA%B8%B0-with-POSTMAN%EC%8B%A4%EC%8A%B5)
+  - [깃헙 공식문서](https://docs.github.com/en/developers/apps/building-oauth-apps/authorizing-oauth-apps)
 - VPC 실습 듣기(루카스 자료)
 
 
