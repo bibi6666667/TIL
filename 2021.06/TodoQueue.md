@@ -1,22 +1,19 @@
 # ing..
 
 - issue-tracker 프로젝트 진행 중
-  - API 기능구현 완성하기 (JPA 복습 필요)
-  
-  - QueryDSL
-  
-    > JPA에서 커스텀쿼리(`@Query("")`) 작성 시 쓰면 좋은 프레임워크?
-  
   - ElasticSerch 
   
     >  https://esbook.kimjmin.net/ 또는 AmazonElasticserchService 참고
   
   - 토큰이 만료되었을 때 발생시킬 에러 만들기
+  
 
 # Todo Queue
 
-- 자바 널체크 ==와 equals()의 차이
+- 자바 널체크 : ==와 equals()의 차이
   - https://lovefor-you.tistory.com/113
+- JWT에 커스컴클레임 넣고 사용하기 by 우디
+  - https://github.com/jwtk/jjwt#json-custom 의 "Custom JSON Processor" 중심으로 보기
 - S3에 이미지 업로드하는 법 https://devlog-wjdrbs96.tistory.com/213
 - 동의 GIthub OAuth 구현하기
   - [Velog](https://velog.io/@d-h-k/Oauth-%EC%B0%8D%EB%A8%B9%ED%95%B4%EB%B3%B4%EA%B8%B0-with-POSTMAN%EC%8B%A4%EC%8A%B5), [깃헙 공식문서](https://docs.github.com/en/developers/apps/building-oauth-apps/authorizing-oauth-apps)
