@@ -1,12 +1,16 @@
 # ing..
 
 - issue-tracker 프로젝트 진행 중
+
+  - 이슈 수정/삭제 시 이슈 작성자  = User인지 확인 후 진행되게 하기
+
   - ElasticSerch 
-  
+
     >  https://esbook.kimjmin.net/ 또는 AmazonElasticserchService 참고
-  
+
   - 토큰이 만료되었을 때 발생시킬 에러 만들기
-  
+
+  - API 전체적으로 테스트하기
 
 # Todo Queue
 
