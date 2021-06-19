@@ -2,7 +2,7 @@
 
 - issue-tracker 프로젝트 진행 중
 
-  - 이슈 수정/삭제 시 이슈 작성자  = User인지 확인 후 진행되게 하기
+  - 이슈 수정/삭제 시 이슈 작성자  = User인지 확인 후 진행되게 하기?
 
   - ElasticSerch 
 
@@ -11,14 +11,19 @@
   - 토큰이 만료되었을 때 발생시킬 에러 만들기
 
   - API 전체적으로 테스트하기
+  
+  - S3에 이미지 업로드하는 법 https://devlog-wjdrbs96.tistory.com/213
+
+serialize : 객체를 byte로 변환
+
+deserialize : byte를 객체로 돌려놓기
+
+왜 하는가? 모든 컴퓨터는 byte 기반으로 작동하기 때문에, 객체를 지원하지 않는 곳에서도 사용하기 위해서 serialize/deserialize를 한다.
 
 # Todo Queue
 
 - 자바 널체크 : ==와 equals()의 차이
   - https://lovefor-you.tistory.com/113
-- JWT에 커스컴클레임 넣고 사용하기 by 우디
-  - https://github.com/jwtk/jjwt#json-custom 의 "Custom JSON Processor" 중심으로 보기
-- S3에 이미지 업로드하는 법 https://devlog-wjdrbs96.tistory.com/213
 - 동의 GIthub OAuth 구현하기
   - [Velog](https://velog.io/@d-h-k/Oauth-%EC%B0%8D%EB%A8%B9%ED%95%B4%EB%B3%B4%EA%B8%B0-with-POSTMAN%EC%8B%A4%EC%8A%B5), [깃헙 공식문서](https://docs.github.com/en/developers/apps/building-oauth-apps/authorizing-oauth-apps)
 - VPC 실습 듣기(루카스 자료)
