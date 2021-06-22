@@ -2,19 +2,29 @@
 
 - 부스트캠프 코테 대비
 
-  - 자가진단 6번 문항 풀어보고 해설 보기
   - 프로그래머스 레벨 1~2 다 풀어보기 / 3도 가능하면 풀어보기
   
+  - BFS? DFS?
+  
+    문제 풀이도 보면서 공부하기.
+  
 - issue-tracker 프로젝트 진행 중
+
+  - 전체 작성자, 담당자 조회 api (id 포함 모든 user정보)
+
+  - PR 날리기
 
   - 이슈 수정/삭제 시 이슈 작성자  = User인지 확인 후 진행되게 하기?
 
   - ElasticSerch 
 
     >  https://esbook.kimjmin.net/ 또는 AmazonElasticserchService 참고
-
+  
+    - Spring data elasticserch : https://velog.io/@hanblueblue/%EB%B2%88%EC%97%AD-spring-data-elasticsearch,  https://docs.spring.io/spring-data/elasticsearch/docs/4.2.1/reference/html/#repositories.core-concepts참고
+    - spring boot + spring data + elasticserch https://kimseunghyun76.tistory.com/444
+  
   - 토큰이 만료되었을 때 발생시킬 에러 만들기
-
+  
   - API 전체적으로 테스트하기
   
   - S3에 이미지 업로드하는 법 https://devlog-wjdrbs96.tistory.com/213
