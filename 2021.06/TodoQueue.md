@@ -1,39 +1,38 @@
 # ing..
 
-- 부스트캠프 코테 대비
-
-  - 프로그래머스 레벨 1~2 다 풀어보기 / 3도 가능하면 풀어보기
-  
-  - BFS? DFS?
-  
-    문제 풀이도 보면서 공부하기.
-  
 - issue-tracker 프로젝트 진행 중
 
-  - 전체 작성자, 담당자 조회 api (id 포함 모든 user정보)
+  - 검색결과 없을 때 NullPointerException, 토큰 만료시 예외 처리하기
 
   - PR 날리기
 
   - 이슈 수정/삭제 시 이슈 작성자  = User인지 확인 후 진행되게 하기?
 
-  - ElasticSerch 
-
-    >  https://esbook.kimjmin.net/ 또는 AmazonElasticserchService 참고
-  
-    - Spring data elasticserch : https://velog.io/@hanblueblue/%EB%B2%88%EC%97%AD-spring-data-elasticsearch,  https://docs.spring.io/spring-data/elasticsearch/docs/4.2.1/reference/html/#repositories.core-concepts참고
-    - spring boot + spring data + elasticserch https://kimseunghyun76.tistory.com/444
-  
-  - 토큰이 만료되었을 때 발생시킬 에러 만들기
-  
-  - API 전체적으로 테스트하기
-  
   - S3에 이미지 업로드하는 법 https://devlog-wjdrbs96.tistory.com/213
 
-serialize : 객체를 byte로 변환
+  - serialize : 객체를 byte로 변환 - deserialize : byte를 객체로 돌려놓기
 
-deserialize : byte를 객체로 돌려놓기
+    - 왜 하는가? 모든 컴퓨터는 byte 기반으로 작동하기 때문에, 객체를 지원하지 않는 곳에서도 사용하기 위해서 serialize/deserialize를 한다
 
-왜 하는가? 모든 컴퓨터는 byte 기반으로 작동하기 때문에, 객체를 지원하지 않는 곳에서도 사용하기 위해서 serialize/deserialize를 한다.
+  - QueryDLS JOIN 사용법
+
+    - https://stackoverflow.com/questions/60833916/querydsl-projection-elementcollection
+    - https://lelecoder.com/145
+
+  - S3 (s3버킷에 이미지 업로드하는 법)
+
+    https://www.notion.so/s3-61b306e8eb114768ab928143baf0a166
+
+    QueryDSL
+
+    https://www.notion.so/querydsl-831ebc94d7c040c5ba04d9ceeb89f8fb
+
+    Q클래스 생성 안 될 때 ...
+
+    -> 혹시 Project Structure - Project Settings - Modules 에서 Excluded Folders 에서 build가 빨간색으로 설정되어 있는지 확인한다.
+  
+- 밀린 PR피드백 확인하고 수정하기ㅠㅠ
+
 
 # Todo Queue
 
