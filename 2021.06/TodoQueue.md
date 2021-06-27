@@ -1,33 +1,30 @@
 # ing..
 
-- issue-tracker 프로젝트 진행 중
+- 계획 짜는 중..
+
+
+
+# Todo Queue
+
+- issue-tracker 프로젝트
 
   - PR 날리기
-
-  - (이미지 첨부)S3에 이미지 업로드하는 법 https://devlog-wjdrbs96.tistory.com/213
 
   - serialize : 객체를 byte로 변환 - deserialize : byte를 객체로 돌려놓기
 
     - 왜 하는가? 모든 컴퓨터는 byte 기반으로 작동하기 때문에, 객체를 지원하지 않는 곳에서도 사용하기 위해서 serialize/deserialize를 한다
 
-  - S3 (s3버킷에 이미지 업로드하는 법)
+  - 이미지 첨부기능 - S3버킷에 이미지 업로드하는 법
 
     https://www.notion.so/s3-61b306e8eb114768ab928143baf0a166
 
+     https://devlog-wjdrbs96.tistory.com/213
+
 - 밀린 PR피드백 확인하고 수정하기ㅠㅠ
 
-
-# Todo Queue
-
 - 자바 널체크 : ==와 equals()의 차이
-  - https://lovefor-you.tistory.com/113
-- 동의 GIthub OAuth 구현하기
-  - [Velog](https://velog.io/@d-h-k/Oauth-%EC%B0%8D%EB%A8%B9%ED%95%B4%EB%B3%B4%EA%B8%B0-with-POSTMAN%EC%8B%A4%EC%8A%B5), [깃헙 공식문서](https://docs.github.com/en/developers/apps/building-oauth-apps/authorizing-oauth-apps)
-- VPC 실습 듣기(루카스 자료)
-
-
-- AWS VPC - EC2서브넷과 DB서브넷 구분 생성
-  - [yeon이 공유해 주신 DB서버와 웹서버 분리하는 법](https://velog.io/@yeon/public-subnet%EA%B3%BC-private-subnet%EC%97%90-%EC%9B%B9%EC%84%9C%EB%B2%84%EC%99%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EB%B6%84%EB%A6%AC%ED%95%B4%EC%84%9C-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
+  
+  - https://lovefor-you.tistory.com/113C%ED%95%B4%EC%84%9C-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
 
 
 ---
