@@ -1,15 +1,16 @@
 # ing..
 
 - 계획 짜는 중..
-- hello coding 알고리즘 책 읽는 중
 
-
+- 영어스터디 영상 보기
+  - https://www.youtube.com/watch?v=rmIsKoRxcx0	
+- '그림으로 배우는 알고리즘 Basic' 읽는 중
 
 # Todo Queue
 
 - issue-tracker 프로젝트
 
-  - PR 날리기
+  - PR 받은 것 리뷰하기
 
   - serialize : 객체를 byte로 변환 - deserialize : byte를 객체로 돌려놓기
 
